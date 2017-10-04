@@ -10,7 +10,7 @@ html,
 body {
 	height: 100%;
 	width: 100%;
-	font-family: fantasy;
+	font-family: arial;
 }
 
 .alignleft { float: left; }
@@ -135,14 +135,15 @@ h4, .h4{
     /*margin-top: -3em;*/
 }
 .job{  
- 	background: -webkit-linear-gradient(blue, cyan, blue);
+ 	color: blue;
+ 	/*background: -webkit-linear-gradient(blue, cyan, blue);
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;*/
  
  }
  #detail{
  	color: black;
  }
  .compet{
- 	margin-left: 11em;
+ 	margin-left: em;
  }
